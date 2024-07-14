@@ -1,0 +1,41 @@
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    
+  }
+  
+body{
+
+  margin: 0 auto;
+
+}
+.front{
+  margin: 0 auto;
+  max-width:  1140px;
+  padding: 20px 240px;
+  background-image: url("../assets/Hero-bg.png");
+}  
+.navimage{
+    width: 240px;
+  }
+
+.btn{
+  text-decoration: none;
+  border: none;
+  padding: 21px 24px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+h1{
+    font-weight: 800;
+    font-size: 48px;
+   
+}
+
+.whydev{
+  background-color: 1E1E1E;
+}
