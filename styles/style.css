@@ -11,6 +11,12 @@ body{
   margin: 0 auto;
 
 }
+.background{
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+}
 .front{
   margin: 0 auto;
   max-width:  1140px;
@@ -22,6 +28,7 @@ body{
   }
 
 .btn{
+  justify-content: center ;
   text-decoration: none;
   border: none;
   padding: 21px 24px;
@@ -37,5 +44,19 @@ h1{
 }
 
 .whydev{
-  background-color: 1E1E1E;
+  width: 1140px;
+  margin: 0% auto;
+  background-color: 0D1321;
+}
+.dev{
+  text-align: center;
+  padding: 80px 100px;
+
+}
+.dev2{
+  color: 0D1321;
+  font-size: bold;
+}
+.layer1{
+  
 }
